@@ -9,3 +9,4 @@
 
 ## Technical Vision
 This project aims to leverage OpenAI's API to implement natural language processing (NLP) for intuitive user commands and real-time data analysis within smart ecosystems.
+Roadmap
